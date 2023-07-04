@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70bbca21-a9ff-487b-8c12-9eadbb96133c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/App.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/BlazorApp1.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Pages/Counter.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Pages/FetchData.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Pages/Index.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Shared/MainLayout.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Shared/MainLayout.razor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Shared/NavMenu.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Shared/NavMenu.razor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/Shared/SurveyPrompt.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/_Imports.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/bootstrap/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/bootstrap/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/FONT-LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/ICON-LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp1/wwwroot/sample-data/weather.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/App.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Auth/CustomAuthProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/BlazorApp2.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Pages/Counter.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Pages/FetchData.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Pages/Index.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Shared/MainLayout.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Shared/MainLayout.razor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Shared/NavMenu.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Shared/NavMenu.razor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/Shared/SurveyPrompt.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/_Imports.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/bootstrap/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/bootstrap/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/FONT-LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/ICON-LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/font/fonts/open-iconic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/font/fonts/open-iconic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/font/fonts/open-iconic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/css/open-iconic/font/fonts/open-iconic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp2/wwwroot/sample-data/weather.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DNP-Assig-3-main/.idea/.idea.Assigment3/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DNP-Assig-3-main/.idea/.idea.Assigment3/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="70bbca21-a9ff-487b-8c12-9eadbb96133c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +41,7 @@
       <updated>1688407970280</updated>
       <workItem from="1688407972836" duration="259000" />
       <workItem from="1688408291069" duration="68000" />
+      <workItem from="1688479072096" duration="12000" />
     </task>
     <servers />
   </component>
